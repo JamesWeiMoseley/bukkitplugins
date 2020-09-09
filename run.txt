@@ -1,0 +1,5 @@
+java -Xms2014M -Xmx2046M -jar spigot.jar
+pause
+
+*type this in to the terminals to start the server*
+*type stop to end the server*
