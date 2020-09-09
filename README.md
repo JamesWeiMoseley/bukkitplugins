@@ -8,4 +8,4 @@ Here are a number of plugins that allow players to fly, eat, throw grenades, pla
 
 ![alt text](imgs/screenshot.png | width=100)
 
-<img src="imgs/screenshot.png"/>
+<img src="imgs/screenshot.png"/ width="200">
