@@ -1,0 +1,7 @@
+name: KilledMessage
+version: 1.2
+author: James
+main: me.james.killed.Main
+description: Whever a player dies, there will be a message that displays that that player has died,
+  and what killed that player.  It will also send a message to the killer if it is a player, such
+  as in PvP modes.
