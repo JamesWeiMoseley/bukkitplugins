@@ -1,0 +1,5 @@
+firstBroadcast: '<player> has joined the server for the first time! Everyone say Hi!'
+
+Broadcast: '<player> has joined the server YAY!!!!'
+
+Quit: '<player> has quit the server bye bye!'

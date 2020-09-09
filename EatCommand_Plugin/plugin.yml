@@ -1,0 +1,8 @@
+name: Eat
+main: me.james.eatcommand.Main
+version: 1.0.0
+author: james
+description: Simply type the command "eat" and your food bar will instantly replenish.
+
+commands:
+  eat:

@@ -1,0 +1,8 @@
+name: Annoucement
+version: 1.2
+author: James
+main: me.james.broadcast.Main
+description: This plugin is a simple listener.  It listens for an action and has a reaction.
+  In this case everytime a player enters the server, it will display a message to everyone
+  that he or she has joined.  There is also a event or leaving the server that this plugin listens
+  for.  It will display a message at this time as well.

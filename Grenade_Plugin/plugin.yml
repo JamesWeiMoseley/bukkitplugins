@@ -1,0 +1,9 @@
+name: Grenade
+version: 1.3
+author: James
+main: me.james.grenade.Main
+description: Grenades. Throw the specified item, and it will explode like a gernade.  But watch out,
+  because it can kill you as well.  The current items are Oak Wood, and Birch Wood.  Just chop some trees down,
+  convert it to either of the two choices and right click start throwing.  Right now the Birch Wood has a wider
+  radius of explosion, but it's easy to change.  Also, if you want to add more items to explode, you need to
+  copy and paste the entire if statment.

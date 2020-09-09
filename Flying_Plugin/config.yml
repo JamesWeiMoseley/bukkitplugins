@@ -1,0 +1,6 @@
+
+error_message: 'You cannot fly since you are not a player'
+
+FlyCommand:
+  start_fly: "You now have the ability to fly.  Double on the spacebar to go up.  Repeat the fly command to disable flying. "
+  stop_fly: "You have disabled flying.  Repeat the command to fly again."

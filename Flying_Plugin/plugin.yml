@@ -1,0 +1,11 @@
+name: flying
+version: 1.1.0
+author: James
+main: me.james.flying.Main
+description: This simple plugin does the most desired action in the game flying. Just type in the
+  command to activate it.  Then double click the spacebar to fly.  Double click the space bar again to
+  fall to the ground.  You will not take fall damange as long as flying is active.
+  To deactivate flying, simply type in the command again. Enjoy.
+
+commands:
+  fly:

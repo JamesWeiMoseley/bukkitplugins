@@ -1,0 +1,9 @@
+name: Exploding
+version: 1.2.0
+author: James
+main: me.james.ExplodingPlants.Main
+description: This plugin introduces poisonous flower.  Currently the flowers that will poison you
+  are Oxeye Daisies, Dandelions, Poppies, and Red Tuplips. Just pick any of these wild flowers up, and
+  when you place them back on the ground, they will poison who ever steps on them for 3 seconds.
+  Will only poison players (including yourself), not animals or mobs.  So it is good for
+  PvP.  If you want to add other flowers, just add another if statment in the Event Handler.
