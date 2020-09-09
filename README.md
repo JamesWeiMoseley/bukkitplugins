@@ -7,3 +7,5 @@ These plugins are for the game Minecraft.  It was written in Java and uses the B
 Here are a number of plugins that allow players to fly, eat, throw grenades, plant flower bombs, etc in the survival mode of Minecraft.  Each folder has the source code all in one folder for easy readability, but all one has to do it download the jar file of his or her choice, and drop it into the plugins folder of their own server.  Finally to run the spigot server, the instructions are in the run txt file.  
 
 ![alt text](imgs/screenshot.png | width=100)
+
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
