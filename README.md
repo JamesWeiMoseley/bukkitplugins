@@ -10,11 +10,14 @@ These plugins are for the game Minecraft.  It was written in Java and uses the B
 
 
 
-To run your own server just download the minecraft package here:
+To run your own server just download the java minecraft package here:
+
+https://www.minecraft.net/en-us/download/server/
 
 <img src="imgs/screenshot.png" width="50%"/>
 
 Then download your preferred version of spigot: 
+
 https://getbukkit.org/download/spigot
 
 <img src="imgs/Untitled.png" width="50%"/>
