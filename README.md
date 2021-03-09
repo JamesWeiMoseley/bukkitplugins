@@ -15,6 +15,7 @@ To run your own server just download the minecraft package here:
 <img src="imgs/screenshot.png" width="50%"/>
 
 Then download your preferred version of spigot: 
+https://getbukkit.org/download/spigot
 
 <img src="imgs/Untitled.png" width="50%"/>
 
