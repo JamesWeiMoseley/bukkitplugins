@@ -8,8 +8,6 @@ These plugins are for the game Minecraft.  It was written in Java and uses the B
 
 
 
-
-
 To run your own server just download the java minecraft package here:
 
 https://www.minecraft.net/en-us/download/server/
@@ -29,4 +27,8 @@ Then drag your spigot file in the folder and opening it it should look like this
 Finally enjoy!
 
 <img src="imgs/Untitled3.png" width="80%"/>
+
+***
+All code was written in eclipse version 4.14.0 using Java SE 9
+***
 
