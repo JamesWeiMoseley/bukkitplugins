@@ -8,7 +8,7 @@ Finally to run the spigot server, the instructions are in the run txt file.
 
 Plugins are software add-on that are installed on a program to enhance its capabilities without changing the program itself. 
 
-These plugins are written in Java and uses the Bukkit API, which is an API that provides anyone with the ability to add their own code to Minecraft Java version. 
+These plugins are written in Java and uses the open source Bukkit API, which is an API that provides anyone with the ability to add their own code to Minecraft Java version. 
 It then uses spigot as a build path as well as using their servers to run the game.  These specific plugins are optimized for Minecraft version 14. 
 
 +-----------------------------------------------------+
